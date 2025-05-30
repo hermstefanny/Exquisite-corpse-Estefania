@@ -1,6 +1,8 @@
 # My Story
 
-My story starts
 This is vasanthi editing your story
 
-## Subtitle
+## This is the story
+
+This is a story that starts in a party of a university.
+
